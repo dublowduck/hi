@@ -6,3 +6,4 @@ This program is not desined to insult anyone. Just a small script to test my kno
 ## Authors
 
 * **Theodore**  [[dublowduck]](https://github.com/dublowduck)
+* **The cat**
